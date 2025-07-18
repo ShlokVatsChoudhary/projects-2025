@@ -1,21 +1,24 @@
 # contact_saver project in C
 
-This is my second project which i am publishing on a public github repository. This project is a mini palindrome checker program made entirely on C.
+This is my **second C project**, published under the `projects2025/palindrome_checker` directory. It is a **mini palindrome checker**, fully written in the C programming language.
 
-## FEATURES
 
-- This palindrome checker can take both a word and a sentence as an input.
-- It will auto filter out numericals and special symbols and will only take alphabets as an input.
-- It incorporates dynamic memory allocation.
+# 🚀 Features
+
+- Accepts both **words and sentences** as input
+- **Automatically filters out** digits, symbols, and spaces — only alphabetic characters are considered
+- Case-insensitive logic (converts all characters to lowercase)
+- Uses **dynamic memory allocation** for flexible input handling
+
 
 ## How to run
 
 1. Open terminal
 2. Compile:
    ```bash
-   gcc main.c -o project2.c
+   gcc project2.c -o palindrome_checker
 3. run the program
-   ./project2.c
+   ./palindrome_checker
 
 ## File Structure
 
