@@ -13,13 +13,13 @@ This is my first project which i am publishing on a public github repository. Th
 1. Open terminal
 2. Compile:
    ```bash
-   gcc main.c -o contact_saver
+   gcc main.c -o project1.c
 3. run the program
-   ./contact_saver
+   ./project1.c
 
 ## File Structure
 
-- main.c → Main source code
+- project1.c → Main source code
 - contact.txt → Stores contact data
 - README.md → Project info
 

@@ -6,14 +6,14 @@
 int main()
 {
 
-    char *word = (char *)malloc(100 * sizeof(char));
+    char *word = (char *)malloc(250 * sizeof(char));
     int length;
 
     printf("\n-----------WELCOME TO THE PALINDROME CHECKER PROGRAM----------\n\n\n");
     printf("NOTE: You can input a word or a sentence but not number otherwise the conclusion will be made by filtering out the integers or symbols\n\n");
 
     printf("Enter the word or sentence that you want to check\n--> ");
-    fgets(word, 100, stdin);
+    fgets(word, 250, stdin);
 
     word[strcspn(word, "\n")] = 0;
     length = strlen(word);
