@@ -1,6 +1,6 @@
 # contact_saver project in C
 
-This is my **second C project**, published under the `projects2025/palindrome_checker` directory. It is a **mini palindrome checker**, fully written in the C programming language.
+This is my **second C project**, published under the `projects-2025/palindrome_checker` directory. It is a **mini palindrome checker**, fully written in the C programming language.
 
 
 # 🚀 Features
